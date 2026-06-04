@@ -45,6 +45,12 @@
       <br/>PyTorch
     </td>
     <td align="center" width="100">
+      <a href="https://n8n.io/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" alt="n8n" width="40" height="40"/>
+      </a>
+      <br/>n8n
+    </td>
+    <td align="center" width="100">
       <a href="https://scikit-learn.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
       </a>
@@ -56,14 +62,14 @@
       </a>
       <br/>OpenCV
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <a href="https://numpy.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
       </a>
       <br/>NumPy
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <a href="https://pandas.pydata.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -94,14 +100,14 @@
       </a>
       <br/>HTML5
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
       </a>
       <br/>CSS3
     </td>
-  </tr>
-  <tr>
     <td align="center" width="100">
       <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
