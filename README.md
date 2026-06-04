@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hi%20👋,%20I'm%20Matloob%20Hussain%20Altamish&fontSize=32&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20AI%20Engineer%20and%20Deep%20Learning%20enthusiast%20from%20Pakistan%20🇵🇰&descAlignY=58&descSize=16&descColor=8b949e"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;Deep+Learning+Enthusiast+%F0%9F%A7%A0;NLP+%26+RAG+Developer+%F0%9F%94%8D;n8n+Automation+Expert+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Hi%20👋,%20I'm%20Matloob%20Hussain%20Altamish&fontSize=32&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20AI%20Engineer%20and%20n8n%20Automation%20Enthusiast%20from%20Pakistan%20🇵🇰&descAlignY=58&descSize=16&descColor=8b949e"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=AI+Engineer+%F0%9F%A4%96;NLP+%26+RAG+Developer+%F0%9F%94%8D;n8n+Automation+Expert+%E2%9A%A1;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,23 +24,98 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-<a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-</p>
-
----
+<table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      </a>
+      <br/>Python
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+      </a>
+      <br/>TensorFlow
+    </td>
+    <td align="center" width="100">
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+      </a>
+      <br/>PyTorch
+    </td>
+    <td align="center" width="100">
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+      </a>
+      <br/>Scikit-Learn
+    </td>
+    <td align="center" width="100">
+      <a href="https://opencv.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
+      </a>
+      <br/>OpenCV
+    </td>
+    <td align="center" width="100">
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+      </a>
+      <br/>NumPy
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+      </a>
+      <br/>Pandas
+    </td>
+    <td align="center" width="100">
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+      </a>
+      <br/>Seaborn
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      </a>
+      <br/>MySQL
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+      </a>
+      <br/>MongoDB
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      </a>
+      <br/>HTML5
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
+      <br/>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+      </a>
+      <br/>C++
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.arduino.cc/" target="_blank">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+      </a>
+      <br/>Arduino
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
